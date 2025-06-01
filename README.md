@@ -30,9 +30,15 @@ The objective is to **fine-tune a large language model (LLM)** using LoRA and qu
 
 ## 📁 File Structure
 .
-├── ESE_577_Deep_Learning_Project_Report.pdf
-├── ESE_577_Pr
-├── ESE_588_Project_Report_Guoao_Li.pdf
+├── code/
+│ ├── ese577_fall24_project.ipynb
+├── data/
+│ ├── ESE_577_syllabus.pdf
+│ ├── QA_pair.xlsx
+│ ├── validation_set.xlsx
+│ └── testing_set.xlxs
+├── ESE_577_Deep_Learning_Project_Spring_2025.pdf
+├── ESE_577_project.pdf
 └── README.md
 
 ---
