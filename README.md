@@ -31,7 +31,7 @@ The objective is to **fine-tune a large language model (LLM)** using LoRA and qu
 ## 📁 File Structure
 .
 ├── code/
-│ ├── ese577_fall24_project.ipynb
+│ ├── mistral_7B_group_project.ipynb
 ├── data/
 │ ├── ESE_577_syllabus.pdf
 │ ├── QA_pair.xlsx
